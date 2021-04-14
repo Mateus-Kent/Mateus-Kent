@@ -9,6 +9,8 @@
 
 
 
-
+@settings {
+  font-size: 400;
+}
 
 
