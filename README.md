@@ -11,12 +11,7 @@
 
 
 
-@settings {
-  font-size: 400;
-}
-
 
 <script>
 $('#bigtext').bigtext();
 </script>
-   
