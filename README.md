@@ -11,7 +11,3 @@
 
 
 
-
-<script>
-$('#bigtext').bigtext();
-</script>
