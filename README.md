@@ -1,6 +1,6 @@
 # Mateus Quintino 
 <p align="center">
-### “All we have to decide is what to do with the time that is given us.” 
+“All we have to decide is what to do with the time that is given us.” 
     ― J.R.R. Tolkien 
   <p>
   
