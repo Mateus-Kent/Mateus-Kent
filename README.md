@@ -1,4 +1,4 @@
-  <p align="center" font-size="16px" >
+  <p align="center" font-size="300px" >
    “All we have to decide is what to do with the time that is given us.” ― J.R.R. Tolkien </div>
    </p>
 
