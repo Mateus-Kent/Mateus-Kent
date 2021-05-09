@@ -16,9 +16,11 @@
 </p>
     
 
-<p align="center">    
-<a href="https://www.linkedin.com/in/mateusqsantos/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1618487558~hmac=71e08710c20222f43c23e9f275977ddd" alt="Mateus-Kent" height="20" width="20" /></a>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mateusqsantos/" target="blank"><img align="center" src="https://img.shields.io/badge/-Daniel%20Benício-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes" alt="linkedin" height="25" width="150" /></a>
 </p>
+
 
 
 
