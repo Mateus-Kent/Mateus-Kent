@@ -13,10 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Kent&show_icons=true&theme=radical" alt="Stats"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Kent&theme=nightowl&layout=compact&langs_count=8"/>
-</p>
-    
 
 
 <p align="center">
