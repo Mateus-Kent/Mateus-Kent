@@ -22,8 +22,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mateusqsantos/" target="blank"><img align="center" src="https://img.shields.io/badge/-Mateus%20Quintino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes" alt="linkedin" height="25" width="150" /></a>
 </p>
-      
- ![Snake animation](https://github.com/Mateus-Kent/Mateus-Kent/blob/output/github-contribution-grid-snake.svg)
 
 
 
