@@ -21,6 +21,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mateusqsantos/" target="blank"><img align="center" src="https://img.shields.io/badge/-Mateus%20Quintino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes" alt="linkedin" height="25" width="150" /></a>
+    
+    
+    
+    
+    
+    <a href="https://www.linkedin.com/in/mateusqsantos-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
       
       
