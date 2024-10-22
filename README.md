@@ -29,10 +29,9 @@ I am a **Full Stack Developer** with **3 years of experience** specializing in b
 
 ### 🚀 Projects
 
-- **Score**: Driver research and registration platform (Node.js, Express, Sequelize)
-- **Kavuka**: Driver background check system (Node.js, API integrations, scalable architecture)
-- **Backoffice**: Access management system (Node.js, Redis)
-- **Procesos Limpo**: Employee criminal record verification platform (Node.js, Express)
+- **Pass Manager**: A PWA app for password management (Node.js, Typescript, Express, Prisma, Angular)
+- **Daily Bot Discord**: A discord bot for holding dailys (Node.js, Typescript, Discord.js)
+- **Kids Up**: App for managing your child at daycare (Node.js, Typescript, Javascript, TypeORM)
 
 ---
 
