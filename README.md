@@ -22,8 +22,8 @@ I am a **Full Stack Developer** with **3 years of experience** specializing in b
 - **Backend**: Node.js, Express, NestJS, TypeScript, Sequelize, Redis
 - **Frontend**: Angular, React, TypeScript, Angular Material UI
 - **Databases**: MySQL, PostgreSQL
-- **Testing & CI/CD**: Jest, Mocha, Docker, GitHub Actions
-- **Other Tools**: Puppeteer, Swagger, Microservices architecture
+- **Testing & CI/CD**: Jest, Docker
+- **Other Tools**: Swagger, Microservices architecture
 
 ---
 
